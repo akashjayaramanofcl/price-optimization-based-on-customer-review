@@ -1,0 +1,101 @@
+product_name,price,review,sentiment,sentiment_score,review_length,word_count,sentiment_encoded,optimized_price,price_change,price_change_percent,confidence_score
+Gaming Headset,81.14,It's alright. Meets basic requirements.,neutral,0.0,39,5,1,82.76,1.6200000000000045,1.9965491742667052,0.5
+4K Webcam,105.34,Perfect quality! Everything I hoped for and more.,positive,0.75,49,8,2,121.14,15.799999999999997,14.999050692994112,0.725
+USB Flash Drive,13.47,The product works as expected. Nothing special.,positive,0.12857142857142856,47,7,2,13.82,0.34999999999999964,2.5983667409057136,0.539
+Portable Phone Charger,33.11,The product works as expected. Nothing special.,positive,0.12857142857142856,47,7,2,33.96,0.8500000000000014,2.567200241618851,0.539
+USB Flash Drive,17.94,Standard item. Works but nothing special.,positive,0.17857142857142858,41,6,2,18.58,0.639999999999997,3.5674470457078984,0.554
+Car Phone Mount,24.91,The product works as expected. Nothing special.,positive,0.12857142857142856,47,7,2,25.55,0.6400000000000006,2.5692492974708974,0.539
+Tablet Stand,60.28,Acceptable quality. Not amazing but not terrible either.,neutral,0.09999999999999998,56,8,1,61.49,1.2100000000000009,2.007299270072994,0.73
+Wireless Charging Pad,27.76,Completely unreliable. Failed multiple times already.,negative,-0.13333333333333333,53,6,0,26.83,-0.9300000000000033,-3.3501440922190318,0.74
+Wireless Mouse,31.02,Exceptional product! Would definitely buy again.,positive,0.41666666666666663,48,6,2,33.6,2.580000000000002,8.31721470019343,0.625
+Power Bank,42.18,Incredible! Best in its category by far.,positive,0.7000000000000001,40,7,2,48.09,5.910000000000004,14.011379800853494,0.71
+USB Flash Drive,14.98,Extremely disappointed. Nothing works properly.,negative,-0.375,47,5,0,13.58,-1.4000000000000004,-9.345794392523366,0.613
+USB Flash Drive,21.72,Normal product. Gets the job done.,positive,0.15,34,6,2,22.37,0.6500000000000021,2.992633517495406,0.545
+HDMI Cable,18.18,Brilliant product! Exceeds all expectations.,positive,1.0,44,5,2,21.82,3.6400000000000006,20.022002200220026,0.8
+4K Webcam,175.03,Worst purchase ever! Do not recommend.,negative,-1.0,38,6,0,131.27,-43.75999999999999,-25.001428326572583,0.8
+Wireless Mouse,49.7,Normal product. Gets the job done.,positive,0.15,34,6,2,51.19,1.4899999999999949,2.997987927565382,0.545
+Noise Cancelling Earbuds,192.54,Fair product for the money. Nothing outstanding.,positive,0.6,48,7,2,215.64,23.099999999999994,11.997507011530068,0.68
+Desk Lamp,86.19,Ordinary quality. Serves its purpose.,negative,-0.25,37,5,0,80.8,-5.390000000000001,-6.2536257106392865,0.575
+Gaming Headset,92.51,Standard product. Nothing remarkable about it.,positive,0.375,46,6,2,99.45,6.939999999999998,7.501891687385144,0.613
+Laptop Stand,56.55,Very unhappy with this. Product is faulty.,negative,-0.78,42,7,0,45.52,-11.029999999999994,-19.504862953138804,0.734
+Desk Lamp,63.41,It's okay for the price. Does what it's supposed to do.,positive,0.5,55,11,2,69.75,6.340000000000003,9.998422961677974,0.85
+4K Webcam,180.39,It's fine. Does what it needs to do.,positive,0.4166666666666667,36,8,2,195.42,15.030000000000001,8.33194744719774,0.625
+Wireless Charging Pad,23.3,Cheaply made and unreliable. Major regret buying this.,positive,0.23125,54,8,2,24.38,1.0799999999999983,4.635193133047203,0.769
+Desk Lamp,48.87,It's fine. Does what it needs to do.,positive,0.4166666666666667,36,8,2,52.94,4.07,8.328217720482915,0.625
+Gaming Headset,147.17,It's alright. Meets basic requirements.,neutral,0.0,39,5,1,150.11,2.940000000000026,1.997689746551625,0.5
+Wireless Earbuds,134.2,Reasonable product. Meets expectations.,positive,0.2,39,4,2,139.57,5.3700000000000045,4.001490312965727,0.56
+Car Phone Mount,55.39,It's alright. Meets basic requirements.,neutral,0.0,39,5,1,56.5,1.1099999999999994,2.003971836071492,0.5
+USB-C Hub,85.85,Amazing quality! Exceeded all my expectations.,positive,0.7500000000000001,46,6,2,98.73,12.88000000000001,15.002912055911485,0.725
+Wireless Mouse,34.92,Basic functionality. No surprises here.,neutral,0.0,39,5,1,35.62,0.6999999999999957,2.0045819014891055,0.5
+Power Bank,29.12,Adequate product. Nothing to write home about.,positive,0.3333333333333333,46,7,2,31.06,1.9399999999999977,6.6620879120879035,0.6
+Wireless Keyboard,56.36,The product works as expected. Nothing special.,positive,0.12857142857142856,47,7,2,57.81,1.4500000000000028,2.5727466288147673,0.539
+Laptop Backpack,104.85,Standard item. Works but nothing special.,positive,0.17857142857142858,41,6,2,108.59,3.740000000000009,3.5670004768717303,0.554
+Tablet Stand,33.33,Functional but not impressive. Just mediocre.,negative,-0.5,45,6,0,29.16,-4.169999999999998,-12.511251125112507,0.65
+Bluetooth Speaker,87.81,Fair product for the money. Nothing outstanding.,positive,0.6,48,7,2,98.35,10.539999999999992,12.00318870288121,0.68
+Wireless Keyboard,99.76,Functional but not impressive. Just mediocre.,negative,-0.5,45,6,0,87.29,-12.469999999999999,-12.499999999999998,0.65
+Gaming Headset,116.69,Ordinary quality. Serves its purpose.,negative,-0.25,37,5,0,109.4,-7.289999999999992,-6.247321964178586,0.575
+Gaming Mechanical Keyboard,105.97,Standard item. Works but nothing special.,positive,0.17857142857142858,41,6,2,109.75,3.780000000000001,3.567047277531378,0.554
+Tablet Stand,66.11,Terrible performance. Doesn't meet basic standards.,negative,-0.5,51,6,0,57.85,-8.259999999999998,-12.494327635758582,0.85
+Smart Watch,321.0,Exceptional product! Would definitely buy again.,positive,0.41666666666666663,48,6,2,347.75,26.75,8.333333333333332,0.625
+Bluetooth Speaker,66.33,Reasonable product. Meets expectations.,positive,0.2,39,4,2,68.98,2.6500000000000057,3.9951756369666906,0.56
+Portable Phone Charger,25.13,Average product. Neither good nor bad.,neutral,-0.04999999999999997,38,6,1,25.63,0.5,1.9896538002387585,0.515
+Tablet Stand,46.63,Brilliant product! Exceeds all expectations.,positive,1.0,44,5,2,55.96,9.329999999999998,20.00857816856101,0.8
+External Hard Drive,192.55,Satisfactory purchase. Not disappointed but not thrilled.,neutral,0.037500000000000006,57,7,1,196.4,3.8499999999999943,1.9994806543754837,0.711
+Power Bank,52.49,Standard item. Works but nothing special.,positive,0.17857142857142858,41,6,2,54.36,1.8699999999999974,3.562583349209368,0.554
+Tablet Stand,56.49,Works as advertised. Pretty standard stuff.,positive,0.125,43,6,2,57.9,1.4099999999999966,2.496016994158252,0.537
+Screen Protector,29.88,Adequate product. Nothing to write home about.,positive,0.3333333333333333,46,7,2,31.87,1.990000000000002,6.659973226238293,0.6
+Wireless Keyboard,73.37,Average product. Neither good nor bad.,neutral,-0.04999999999999997,38,6,1,74.84,1.4699999999999989,2.003543682704101,0.515
+Smart Watch,157.35,Reasonable product. Meets expectations.,positive,0.2,39,4,2,163.64,6.289999999999992,3.997457896409274,0.56
+4K Webcam,90.78,It's okay for the price. Does what it's supposed to do.,positive,0.5,55,11,2,99.86,9.079999999999998,10.002203128442385,0.85
+4K Webcam,97.4,Impressive! High quality and works flawlessly.,positive,0.7200000000000001,46,6,2,111.43,14.030000000000001,14.404517453798768,0.716
+Portable Phone Charger,50.84,It performs okay. Middle of the road quality.,positive,0.25,45,8,2,53.38,2.539999999999999,4.996066089693153,0.575
+Gaming Mechanical Keyboard,171.66,Reasonable product. Meets expectations.,positive,0.2,39,4,2,178.53,6.8700000000000045,4.002097168822092,0.56
+HDMI Cable,25.75,Basic functionality. No surprises here.,neutral,0.0,39,5,1,26.27,0.5199999999999996,2.019417475728154,0.5
+Gaming Mechanical Keyboard,96.03,Normal product. Gets the job done.,positive,0.15,34,6,2,98.91,2.8799999999999955,2.999062792877221,0.545
+Car Phone Mount,33.49,Complete waste of money. Don't buy this!,neutral,-0.075,40,7,1,34.16,0.6699999999999946,2.0005971931919815,0.522
+Laptop Backpack,98.8,It's okay for the price. Does what it's supposed to do.,positive,0.5,55,11,2,108.68,9.88000000000001,10.00000000000001,0.85
+Screen Protector,24.01,Functional but not impressive. Just mediocre.,negative,-0.5,45,6,0,21.01,-3.0,-12.494793835901707,0.65
+4K Webcam,111.06,It works fine. No major complaints or praises.,positive,0.19270833333333334,46,8,2,115.34,4.280000000000001,3.8537727354583122,0.558
+Car Phone Mount,23.25,Average product. Neither good nor bad.,neutral,-0.04999999999999997,38,6,1,23.71,0.46000000000000085,1.9784946236559176,0.515
+Laptop Stand,86.55,Awful product. Stopped working within days.,negative,-1.0,43,6,0,64.91,-21.64,-25.002888503755056,0.8
+Smart Fitness Tracker,190.85,The product works as expected. Nothing special.,positive,0.12857142857142856,47,7,2,195.76,4.909999999999997,2.5727010741419947,0.539
+Portable Phone Charger,75.57,Standard product. Nothing remarkable about it.,positive,0.375,46,6,2,81.24,5.670000000000002,7.5029773719730075,0.613
+Car Phone Mount,36.84,It's fine. Does what it needs to do.,positive,0.4166666666666667,36,8,2,39.91,3.069999999999993,8.333333333333313,0.625
+Smart Fitness Tracker,107.98,Awesome! Extremely satisfied with this purchase.,positive,0.75,48,6,2,124.18,16.200000000000003,15.00277829227635,0.725
+Wireless Charging Pad,66.32,Works as advertised. Pretty standard stuff.,positive,0.125,43,6,2,67.98,1.6600000000000108,2.5030156815440456,0.537
+Car Phone Mount,46.34,Standard item. Works but nothing special.,positive,0.17857142857142858,41,6,2,48.0,1.6599999999999966,3.5822183858437557,0.554
+Laptop Backpack,104.65,Works as advertised. Pretty standard stuff.,positive,0.125,43,6,2,107.27,2.6199999999999903,2.5035833731485813,0.537
+Gaming Mechanical Keyboard,244.67,Standard item. Works but nothing special.,positive,0.17857142857142858,41,6,2,253.41,8.740000000000009,3.572158417460256,0.554
+Smart Fitness Tracker,207.15,Amazing features! Works beautifully every time.,positive,0.8,47,6,2,240.29,33.139999999999986,15.998069032102336,0.74
+External Hard Drive,130.39,Not worth the price at all. Total disappointment.,negative,-0.25,49,8,0,122.24,-8.149999999999991,-6.250479331237052,0.575
+Smart Fitness Tracker,243.32,Superb quality! Very impressed with this purchase.,positive,1.0,50,7,2,291.98,48.660000000000025,19.998356074305452,0.8
+Portable Phone Charger,55.69,It's alright. Meets basic requirements.,neutral,0.0,39,5,1,56.8,1.1099999999999994,1.993176512838929,0.5
+Screen Protector,10.63,Worst purchase ever! Do not recommend.,negative,-1.0,38,6,0,7.97,-2.660000000000001,-25.02351834430857,0.8
+HDMI Cable,29.04,Basic functionality. No surprises here.,neutral,0.0,39,5,1,29.62,0.5800000000000018,1.9972451790633672,0.5
+Laptop Backpack,92.52,Fair product for the money. Nothing outstanding.,positive,0.6,48,7,2,103.62,11.100000000000009,11.997405966277572,0.68
+Gaming Mechanical Keyboard,193.84,Fair product for the money. Nothing outstanding.,positive,0.6,48,7,2,217.1,23.25999999999999,11.999587288485344,0.68
+Screen Protector,10.87,Adequate product. Nothing to write home about.,positive,0.3333333333333333,46,7,2,11.59,0.7200000000000006,6.623735050597983,0.6
+Smart Watch,475.15,Terrible quality! Broke after just one week of use.,negative,-1.0,51,9,0,356.36,-118.78999999999996,-25.000526149636947,1.0
+Laptop Stand,73.47,Functional but not impressive. Just mediocre.,negative,-0.5,45,6,0,64.29,-9.179999999999993,-12.494895875867691,0.65
+Portable Phone Charger,52.25,It works fine. No major complaints or praises.,positive,0.19270833333333334,46,8,2,54.26,2.009999999999998,3.846889952153106,0.558
+Phone Case,45.22,Absolutely terrible. Customer service is also bad.,negative,-0.8499999999999999,50,7,0,35.61,-9.61,-21.251658558160106,0.755
+Bluetooth Speaker,57.34,Works as advertised. Pretty standard stuff.,positive,0.125,43,6,2,58.77,1.4299999999999997,2.493896058597837,0.537
+Power Bank,88.94,Satisfactory purchase. Not disappointed but not thrilled.,neutral,0.037500000000000006,57,7,1,90.72,1.7800000000000011,2.0013492241960886,0.711
+Wireless Bluetooth Headphones,216.96,Functional but not impressive. Just mediocre.,negative,-0.5,45,6,0,189.84,-27.120000000000005,-12.500000000000004,0.65
+USB-C Hub,63.79,Not durable at all. Broke very easily.,positive,0.5633333333333334,38,7,2,70.98,7.190000000000005,11.271359147201764,0.669
+USB Flash Drive,16.21,Decent quality. Pretty much what I expected.,positive,0.12916666666666668,44,7,2,16.63,0.41999999999999815,2.59099321406538,0.539
+Desk Lamp,50.56,Fair product for the money. Nothing outstanding.,positive,0.6,48,7,2,56.63,6.07,12.005537974683545,0.68
+Wireless Keyboard,76.52,Complete waste of money. Don't buy this!,neutral,-0.075,40,7,1,78.05,1.5300000000000011,1.9994772608468392,0.522
+Portable Phone Charger,58.05,It's okay for the price. Does what it's supposed to do.,positive,0.5,55,11,2,63.86,5.810000000000002,10.008613264427222,0.85
+Wireless Bluetooth Headphones,133.38,Perfect! Does everything I need and more.,positive,0.75,41,7,2,153.39,20.00999999999999,15.002249212775522,0.725
+Noise Cancelling Earbuds,285.3,Basic functionality. No surprises here.,neutral,0.0,39,5,1,291.01,5.7099999999999795,2.0014020329477673,0.5
+USB Flash Drive,10.38,Wonderful experience! Very satisfied customer.,positive,0.825,46,5,2,12.09,1.709999999999999,16.473988439306346,0.747
+USB-C Hub,89.09,Reasonable product. Meets expectations.,positive,0.2,39,4,2,92.65,3.5600000000000023,3.9959591424402316,0.56
+USB Flash Drive,15.91,Great value! Quality is much better than expected.,positive,0.4666666666666666,50,8,2,17.39,1.4800000000000004,9.302325581395351,0.64
+Phone Case,45.95,It's okay for the price. Does what it's supposed to do.,positive,0.5,55,11,2,50.55,4.599999999999994,10.010881392818268,0.85
+Phone Case,18.39,Functional but not impressive. Just mediocre.,negative,-0.5,45,6,0,16.09,-2.3000000000000007,-12.506797172376293,0.65
+Phone Case,41.19,Inferior product. Many issues right out of the box.,positive,0.39285714285714285,51,9,2,44.43,3.240000000000002,7.865986890021855,0.818
+Power Bank,73.71,Worst purchase ever! Do not recommend.,negative,-1.0,38,6,0,55.28,-18.429999999999993,-25.003391670058328,0.8
+Noise Cancelling Earbuds,344.04,Basic functionality. No surprises here.,neutral,0.0,39,5,1,350.92,6.8799999999999955,1.999767468898964,0.5
+Wireless Bluetooth Headphones,94.83,Inferior product. Many issues right out of the box.,positive,0.39285714285714285,51,9,2,102.28,7.450000000000003,7.856163661288624,0.818
+Laptop Backpack,117.76,Fair product for the money. Nothing outstanding.,positive,0.6,48,7,2,131.89,14.129999999999981,11.998980978260853,0.68
